@@ -2,7 +2,7 @@ import cv2
 import os
 import numpy as np
 
-#This module contains all common functions that are called in tester.py file
+#This module contains all common functions that are called in test.py file
 
 
 #Given an image below function returns rectangle for face detected alongwith gray scale image
