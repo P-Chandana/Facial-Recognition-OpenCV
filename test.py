@@ -21,7 +21,7 @@ face_recognizer=fr.train_classifier(faces,faceID)
 face_recognizer.write("traininfData.yml")
 
 
-name={0:"Thor",1:"Captain America"}#creating dictionary containing names for each label
+name={0:"Thor",1:"Chandana"}#creating dictionary containing names for each label
 
 for face in faces_detected:
     (x,y,w,h)=face
